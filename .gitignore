@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.idea/
+.vscode/
+.agents/
+
+vosk-model-small-en-us-0.15/
+
+screenshots/*
+!screenshots/.gitkeep
